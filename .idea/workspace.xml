@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95640c47-7cc0-4faa-9c29-b9f815557759" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/saketh_portfolio.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/migrations/0002_service_image_alter_recentwork_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/about/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/about/6_cQ5L9N3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/about/Resume_Saketh.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/about/passport_size_photo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/clients/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/clients/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/clients/21_C7cCvnD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/services/BBHS_LOGO.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/services/CBIT-LOGO-2023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/services/Narayana_LOGO.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/services/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/works/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/works/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/works/21_1tEaEbn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/line-icons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/et-line.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/et-line.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/et-line.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/et-line.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/et-lined41dd41d.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont93e3.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont93e3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont93e3.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont93e3.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont93e3.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfontd41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regulard41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.magnific-popup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/validator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/includes/scripts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/includes/stylesheets.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TscuMa5MYSX3ocuLgJiamFyI17" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95640c47-7cc0-4faa-9c29-b9f815557759" name="Changes" comment="" />
+      <created>1691835451398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691835451398</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
