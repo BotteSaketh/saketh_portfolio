@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Personal Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+    {% include 'includes/stylesheets.html' %}
+</head>
+<body>
+
+<div class="loader_bg">
+    <div class="loader"></div>
+</div>
+
+<nav class="navbar navbar-custom navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand page-scroll" href="/"> Portfolio<span>.</span> </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a class="smooth-menu" href="#home">Home</a></li>
+                <li><a class="smooth-menu" href="#about">About</a></li>
+                <li><a class="smooth-menu" href="#services">Education</a></li>
+                <li><a class="smooth-menu" href="#portfolio">Projects</a></li>
+                <li><a class="smooth-menu" href="#testimonial">Achievements</a></li>
+                <li><a class="smooth-menu" href="#contact">Contact</a></li>
+                <li><a class="smooth-menu" href="#about" target="_blank">Resume</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+{% block content %}{% endblock %}
+
+
+<footer id="footer" class="footer-area" style="align-items: center;">
+  <!-- Grid container -->
+  <div class="container p-4 pb-0" style="align-items: center;">
+    <!-- Section: Social media -->
+    <section class="mb-4" style="align-items: center;">
+      <!-- Facebook -->
+      <a class="btn btn-outline-light btn-floating m-1" style="color:white" href="https://www.facebook.com/sakethyadav.botte.9/" role="button"
+        ><i class="fa fa-facebook-f fa-2x"></i
+      ></a>
+
+      <!-- Twitter -->
+      <a class="btn btn-outline-light btn-floating m-1" style="color:white" href="https://twitter.com/SAKETHYADAVB" role="button"
+        ><i class="fa fa-twitter fa-2x"></i
+      ></a>
+
+      <!-- Mail -->
+      <a class="btn btn-outline-light btn-floating m-1" style="color:white" href="mailto:bottesaketh@gmail.com" role="button"
+        ><i class="fa fa-envelope fa-2x"></i
+      ></a>
+
+      <!-- Instagram -->
+      <a class="btn btn-outline-light btn-floating m-1" style="color:white" href="https://www.instagram.com/b_saketh_y/" role="button"
+        ><i class="fa fa-instagram fa-2x"></i
+      ></a>
+
+      <!-- Linkedin -->
+      <a class="btn btn-outline-light btn-floating m-1" style="color:white" href="https://www.linkedin.com/in/saketh-botte/" role="button"
+        ><i class="fa fa-linkedin fa-2x"></i
+      ></a>
+
+      <!-- Github -->
+      <a class="btn btn-outline-light btn-floating m-1" style="color:white" href="https://github.com/BotteSaketh" role="button"
+        ><i class="fa fa-github fa-2x"></i
+      >
+      </a>
+
+<!--      <a class="btn btn-outline-light btn-floating m-1" style="color:white" href="https://github.com/BotteSaketh" role="button"-->
+<!--        ><i class="fa fa-hackerrank"></i>-->
+<!--      </a>-->
+
+
+<!--      Back to top -->
+        <a href="#about"><button class="back-to-top">Back To Top</button></a>
+    </section>
+  </div>
+  <!-- Grid container -->
+  <!-- Copyright -->
+<!--  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">-->
+<!--    © 2023 Copyright:-->
+<!--    <a class="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>-->
+<!--  </div>-->
+  <!-- Copyright -->
+</footer>
+
+
+{% include 'includes/scripts.html' %}
+</body>
+</html>
